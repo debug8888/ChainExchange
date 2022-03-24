@@ -8,11 +8,19 @@
 # apk下载地址：
 
     http://www_jys.dapp.pig888.net/Bibox.apk
-    
-	
+   
+ # 后台
+ 
   
   
 # 演示如下
+
+```
+https://system.matibtc.com/admin/auth/login
+账号：  admin
+密码 ： admin
+
+```
 
 
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=341c825e54d47eb48905baedc48fbaef)
