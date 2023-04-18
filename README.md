@@ -5,33 +5,19 @@
 
 # 飞机  @ttt88pay
 
-# apk下载地址：
 
-    http://www_jys.dapp.pig888.net/Bibox.apk
-   
- # 后台
- 
-  
-  
-# 演示如下
-
-```
-https://system.matibtc.com/admin/auth/login
-账号：  admin
-密码 ： admin
-
-```
+![](img/1.jpg)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=341c825e54d47eb48905baedc48fbaef)
+![](img/2.jpg)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=8ce343db20bc2e4f2c2e9e99abafc5ed)
-
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=e35eedeec7c5dc50eb77ce28db23630a)
+![](img/3.jpg)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=1053c7a5e0b703bb21805c4a9dd5ce62)
+![](img/4.jpg)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=99d744854bfbe45df451b70359c1f09c)
+![](img/5.jpg)
+
+
